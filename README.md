@@ -17,61 +17,76 @@ For support, billing and sales related inquiries please submit a ticket at https
 ### OpenVPN (RSA-4096bit)
 
 OpenVPN UDP Ports: 1443 (default), 53, 1194, 8080 or 9201
+
 OpenVPN TCP Ports: 843 (default), 80, 110 or 443
+
 You can download the openvpn.ovpn and .crt files at https://proxy.sh/p/openvpn
+
 (The .crt file is in the same directory as the .ovpn ones)
 
 ### OpenVPN (ECC)
 
 OpenVPN UDP Port: 465 
+
 OpenVPN TCP Port: 465 
+
 You can download the openvpn.ovpn and .crt files at https://proxy.sh/p/openvpn
+
 (The .crt file is in the same directory as the .ovpn ones)
 
 ### OpenVPN (ECC+XOR)
 
 OpenVPN UDP Port: 995  
-OpenVPN TCP Port: 995  
+
+OpenVPN TCP Port: 995 
+
 You can download the openvpn.ovpn and .crt files at https://proxy.sh/p/openvpn
+
 (The .crt file is in the same directory as the .ovpn ones)
 
 ### OpenVPN (TOR's obfsproxy)
 
 OpenVPN UDP Port: 888 (obfs2), 898 (obfs3) or 988 (scramblesuit)
+
 OpenVPN TCP Port: 888 (obfs2), 898 (obfs3) or 988 (scramblesuit)
+
 You can download the openvpn.ovpn and .crt files at https://proxy.sh/p/openvpn
+
 (The .crt file is in the same directory as the .ovpn ones)
 
-### PPTP (not recommended)
+### PPTP
 
 PPTP TCP Port: 1723
+
 You can download the PPTP pkb file (if needed) at https://proxy.sh/p/pptp
 
-### L2TP (not recommended)
+### L2TP
 
 L2TP Secret: security
+
 L2TP UDP Port: 1701
+
 You can download the L2TP pbk file (if needed) at https://proxy.sh/p/l2tp
 
 ### SoftEther
 
 SoftEther Secret: security
+
 SoftEther Ports: 5555, 992 or 8787 
 
 ### OpenSSL
+
 You can download the OpenSSL .ssl file (if needed) at https://proxy.sh/proxysh.ssl
 
 ## Config generator
 
 You can also generate any configuration files for OpenVPN at https://proxy.sh/config
 
-
 ## Security notice
 
 We strongly recommend that you only use OpenVPN. All other protocols such as PPTP, L2TP, SOCKS or CGIProxy are using weak encryption methods, and it is rather simple to decrypt them. If you connected to them, change your VPN password. You should always prefer OpenVPN with the strongest encryption method whenever you can. We also invite you to protect yourself against any potential network leak. 
 
 https://proxy.sh/leaks
-
 
 ## Security extras
 
