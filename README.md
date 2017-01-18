@@ -14,7 +14,7 @@ For support, billing and sales related inquiries please submit a ticket at https
 
 ## Network details
 
-### OpenVPN (RSA-4096bit)
+### OpenVPN (RSA-4096)
 
 OpenVPN UDP Ports: 1443 (default), 53, 1194, 8080 or 9201
 
