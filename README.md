@@ -20,7 +20,7 @@ OpenVPN UDP Ports: 1443 (default), 53, 1194, 8080 or 9201
 
 OpenVPN TCP Ports: 843 (default), 80, 110 or 443
 
-You can download the openvpn.ovpn and .crt files at https://proxy.sh/p/openvpn
+You can download the openvpn.ovpn and .crt files at https://proxy.sh/configs
 
 (The .crt file is in the same directory as the .ovpn ones)
 
@@ -30,7 +30,7 @@ OpenVPN UDP Port: 465
 
 OpenVPN TCP Port: 465 
 
-You can download the openvpn.ovpn and .crt files at https://proxy.sh/p/openvpn
+You can download the openvpn.ovpn and .crt files at https://proxy.sh/configs
 
 (The .crt file is in the same directory as the .ovpn ones)
 
@@ -40,7 +40,7 @@ OpenVPN UDP Port: 995
 
 OpenVPN TCP Port: 995 
 
-You can download the openvpn.ovpn and .crt files at https://proxy.sh/p/openvpn
+You can download the openvpn.ovpn and .crt files at https://proxy.sh/configs
 
 (The .crt file is in the same directory as the .ovpn ones)
 
@@ -50,7 +50,7 @@ OpenVPN UDP Port: 888 (obfs2), 898 (obfs3) or 988 (scramblesuit)
 
 OpenVPN TCP Port: 888 (obfs2), 898 (obfs3) or 988 (scramblesuit)
 
-You can download the openvpn.ovpn and .crt files at https://proxy.sh/p/openvpn
+You can download the openvpn.ovpn and .crt files at https://proxy.sh/configs
 
 (The .crt file is in the same directory as the .ovpn ones)
 
@@ -58,7 +58,7 @@ You can download the openvpn.ovpn and .crt files at https://proxy.sh/p/openvpn
 
 PPTP TCP Port: 1723
 
-You can download the PPTP pkb file (if needed) at https://proxy.sh/p/pptp
+You can download the PPTP pkb file (if needed) at https://proxy.sh/configs
 
 ### L2TP
 
@@ -66,7 +66,7 @@ L2TP Secret: security
 
 L2TP UDP Port: 1701
 
-You can download the L2TP pbk file (if needed) at https://proxy.sh/p/l2tp
+You can download the L2TP pbk file (if needed) at https://proxy.sh/configs
 
 ### SoftEther
 
