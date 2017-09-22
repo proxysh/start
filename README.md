@@ -88,8 +88,7 @@ You can also generate any configuration files for OpenVPN at https://proxy.sh/co
 
 We strongly recommend that you only use OpenVPN. All other protocols such as PPTP, L2TP, SOCKS or CGIProxy are using weak encryption methods, and it is rather simple to decrypt them. If you connected to them, change your VPN password. You should always prefer OpenVPN with the strongest encryption method whenever you can. We also invite you to protect yourself against any potential network leak. 
 
-https://proxy.sh/leaks
-https://leaktest.online/
+https://proxy.sh/leaks + https://leaktest.online/
 
 ## Security extras
 
