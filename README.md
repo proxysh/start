@@ -12,6 +12,8 @@ Find out how to set up our proxy tunnels using our easy-to-follow illustrated gu
 
 For support, billing and sales related inquiries please submit a ticket at https://proxy.sh/help
 
+Last but not least, you should always check your online security leaks at https://leaktest.online/
+
 ## Network details
 
 ### OpenVPN (RSA-4096)
@@ -87,6 +89,7 @@ You can also generate any configuration files for OpenVPN at https://proxy.sh/co
 We strongly recommend that you only use OpenVPN. All other protocols such as PPTP, L2TP, SOCKS or CGIProxy are using weak encryption methods, and it is rather simple to decrypt them. If you connected to them, change your VPN password. You should always prefer OpenVPN with the strongest encryption method whenever you can. We also invite you to protect yourself against any potential network leak. 
 
 https://proxy.sh/leaks
+https://leaktest.online/
 
 ## Security extras
 
